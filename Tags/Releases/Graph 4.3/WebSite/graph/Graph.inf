@@ -1,0 +1,90 @@
+[Graph]
+Name = Graph
+Major = 4
+Minor = 3
+Release = 0
+Build = 384
+DownloadPage = http://www.padowan.dk/
+SupportPage = http://www.padowan.dk/test/Forum.php
+DonatePage = http://www.padowan.dk/test/Donation.php
+
+[English]
+NewFeatures = · Labels can now be rotated freely.
+NewFeatures = · Graph can now calculate the area under a parametric function.
+NewFeatures = · Zoom|Square will now keep the y-axis scaled equal to the x-axis until explicitly disabled.
+NewFeatures = · An image is now stored into the grf files to make preview and thumbnails faster.
+NewFeatures = · OLE objects may now be inserted without text labels.
+NewFeatures = · Checkboxes added to the function list to indicate visibility.
+NewFeatures = · You can now specify the exact placement of text labels.
+NewFeatures = · a^(b/c) is now handled as a special case and will be plotted correctly.
+NewFeatures = · The settings in the Animate dialog is now stored in the grf file.
+NewFeatures = · Equations and inequalities are now plotted faster, especially when printed.
+NewFeatures = · Fixed problem with animations that includes inequalities.
+NewFeatures = · Fixed bug crashing Graph when trying to differentiate a recursive function.
+NewFeatures = · Fixed bug in drawing shadings between functions.
+NewFeatures = · Several minor bugs have been fixed.
+NewFeatures = · Fixed and improved several things in the animation dialog.
+NewFeatures = · Fixed problem where Graph might stop responding when trying to find an extremum.
+NewFeatures = · Serbian, Croatian and Vietnamese translations added.
+
+[Danish]
+NewFeatures = · Etiketter kan nu roteres frit.
+NewFeatures = · Understøttelse af Python-plugins implementeret.
+NewFeatures = · Graph kan nu beregne arealet under en parameterfunktion.
+NewFeatures = · Zoom|Kvadrat vil nu skalere y-aksen og x-aksen ens, med mindre dette slås fra.
+NewFeatures = · Et billede gemmes nu i grf-filerne for at gøre visningen af miniaturebilleder hurtigere.
+NewFeatures = · OLE-objekter kan nu indsættes uden brug af tekstetiketter.
+NewFeatures = · I funktionslisten kan man nu markere med flueben, om de enkelte elementer skal vises eller ej.
+NewFeatures = · Der kan nu vælges en nøjagtig placering af tekstetiketter.
+NewFeatures = · a^(b/c) håndteres nu som et specialtilfælde.
+NewFeatures = · Indstillingerne i dialogen Animer gemmes nu i grf-filen.
+NewFeatures = · Ligninger og uligheder plottes nu hurtigere, især ved udskrift.
+NewFeatures = · Problem med animationer, som indeholder uligheder, er løst.
+NewFeatures = · Fejl, som fik Graph til at gå ned ved differentiation af rekursive funktioner, er rettet
+NewFeatures = · Fejl ved tegning af skraveringer mellem funktioner rettet.
+NewFeatures = · Adskillige mindre fejl er blevet rettet.
+NewFeatures = · Der er foretaget adskillige rettelser og forbedringer i dialogen Animation.
+NewFeatures = · Problem, som kunne få Graph til at holde op med at svare ved ekstremumsbestemmelse, er løst.
+NewFeatures = · Serbisk, kroatisk og vietnamesisk sprogpakke tilføjet.
+
+[German]
+NewFeatures = · Textfelder lassen nun sich beliebig drehen. 
+NewFeatures = · Unterstützung für Python-Plugins implementiert. 
+NewFeatures = · Graph kann jetzt die Fläche unterhalb einer Parameterfunktion berechnen.
+NewFeatures = · Zoomen|Quadrat sorgt für eine gleichmäßige Skalenteilung der X- und der Y-Achse, es sei denn, dies wird ausdrücklich ausgeschaltet.
+NewFeatures = · Graph-Dateien (*.grf) enthalten ab jetzt auch ein Bild, um schnellere Vorschauen zu ermöglichen.
+NewFeatures = · OLE-Objekte können nun direkt eingefügt werden. Der Umweg über Textfelder ist nicht mehr erforderlich.
+NewFeatures = · Die Funktionsliste ermöglicht es jetzt direkt (über Knöpfe), Funktionen aus- und wieder einzublenden.
+NewFeatures = · Textfelder können nun exakt platziert werden.
+NewFeatures = · a^(b/c) wird nun gesondert behandelt.
+NewFeatures = · Die Einstellungen im Animieren-Dialog werden jetzt in der Grf-Datei gespeichert.
+NewFeatures = · Gleichungen und Ungleichungen werden jetzt schneller gezeichnet, besonders beim Drucken.
+NewFeatures = · Ein Problem bei Animationen (in Verbindung mit Ungleichungen) wurde beseitigt.
+NewFeatures = · Kein Absturz mehr bei der Ableitung einer rekursiven Funktion.
+NewFeatures = · Fehler bezüglich Schraffuren zwischen Funktionsgraphen wurde beseitigt.
+NewFeatures = · Einige kleinere Fehler wurden beseitigt.
+NewFeatures = · Diverse Fehlerkorrekturen und Verbesserungen im Menüpunkt Animation.
+NewFeatures = · Fehler in der Extremwertbestimmung beseitigt.
+NewFeatures = · Übersetzung für Serbisch, Kroatisch und Vietnamesisch hinzugefügt.
+
+
+[French]
+NewFeatures = · Les labels peuvent maintenant pivoter librement.
+NewFeatures = · La gestion de plugins Python a été implémentée.
+NewFeatures = · Graph peut maintenant calculer l’aire sous une courbe définie paramétriquement.
+NewFeatures = · Zoom|Normer conservera maintenant l'égalité des échelles sur l'axe des « x » et des « y » tant qu'il ne sera pas désactivé.
+NewFeatures = · Une image est maintenant incluse dans le fichier grf pour accélérer la prévisualisation et les vignettes.
+NewFeatures = · Les objets OLE peuvent maintenant être insérés sans label texte.
+NewFeatures = · Des cases ont été ajoutées à la liste des fonctions pour indiquer l'état visible/invisible.
+NewFeatures = · Vous pouvez maintenant spécifier l'emplacement précis des labels.
+NewFeatures = · a^(b/c) est maintenant traité comme un cas particulier.
+NewFeatures = · Les paramètres de la boîte de dialogue Animation sont maintenant sauvés dans le fichier grf.
+NewFeatures = · Équations et inéquations sont maintenant tracées plus vite, en particulier lors d’une impression.
+NewFeatures = · Le problème avec les animations incluant des inéquations a été corrigé.
+NewFeatures = · Le « bug » plantant Graph en essayant de dériver une fonction récursive a été corrigé.
+NewFeatures = · Le « bug » se produisant en traçant le remplissage entre deux fonctions a été corrigé.
+NewFeatures = · Plusieurs « bugs » mineurs ont été corrigés.
+NewFeatures = · Plusieurs choses ont été corrigées et améliorées dans la boîte de dialogue d'animation.
+NewFeatures = · Le « bug » faisant que Graph ne répondait plus en cherchant un extremum a été corrigé.
+NewFeatures = · Les traductions serbe, croate et vietnamienne ont été ajoutées.
+
